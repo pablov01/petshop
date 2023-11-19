@@ -1,4 +1,4 @@
-package com.petshop.petshop;
+package com.petshop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

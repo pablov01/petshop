@@ -1,8 +1,9 @@
-package com.petshop.repository;
+package com.petshop.Repositories;
 
 
-import com.petshop.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.petshop.Models.Usuario;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
     
